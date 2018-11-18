@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Eid al-Adha Mubarak 2018 !</h1>
+<h1>More changes on the way !</h1>
 
 <?php
 echo "version :Ver v1.0";
